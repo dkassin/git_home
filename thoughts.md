@@ -4,4 +4,3 @@
 4. I'd like to spend time reviewing the group slack channel as a way to review, by seeing the different questions my peers post.
 5. I'd like to shout out my girlfriend Kathy for being very supportive while i both work and doing turing prework.
 6. This is great practice
-7. I wonder how many thoughts i can add during mod 0.
